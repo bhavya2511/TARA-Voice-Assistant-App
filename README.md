@@ -99,6 +99,8 @@ Tested on real Android devices
 Verified accuracy across different voice speeds and accents
 
 Manually tested error handling and fallback voice prompts
+<img width="732" height="1485" alt="image" src="https://github.com/user-attachments/assets/8621836a-63c4-4b51-8726-1a2dc4865da3" />
+
 
 📌 Future Improvements
 
